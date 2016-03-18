@@ -4,7 +4,7 @@
 "
 " lint.vim: Vim command to lint Go files with golint.
 "
-"   https://github.com/golang/lint
+"   https://github.com/bluet-deps/lint
 "
 " This filetype plugin add a new commands for go buffers:
 "
